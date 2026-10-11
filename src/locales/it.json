@@ -1,0 +1,45 @@
+{
+  "description": "TAF Games crea piccoli giochi per smartphone senza pubblicità.",
+  "privacyLink": "Informativa sulla privacy",
+  "privacy": {
+    "title": "Informativa sulla privacy",
+    "updated": "Ultimo aggiornamento: {date}",
+    "intro": "Questa informativa spiega come {company} («TAF Games») tratta i dati nei suoi giochi e su questo sito. In breve: non raccogliamo dati personali.",
+    "sections": [
+      {
+        "heading": "I nostri giochi",
+        "paragraphs": [
+          "I nostri giochi non raccolgono né condividono dati personali. Non hanno pubblicità, strumenti di analisi, tracciamento o account e funzionano completamente offline.",
+          "Le tue impostazioni e i tuoi progressi sono salvati solo sul tuo dispositivo. Non possiamo vederli e vengono eliminati quando disinstalli il gioco."
+        ]
+      },
+      {
+        "heading": "Acquisti",
+        "paragraphs": [
+          "I giochi si acquistano tramite App Store o Google Play. Apple e Google gestiscono il pagamento secondo le proprie informative sulla privacy. Non riceviamo mai i tuoi dati di pagamento, ma solo report di vendita aggregati."
+        ]
+      },
+      {
+        "heading": "Questo sito",
+        "paragraphs": [
+          "Questo sito non usa cookie, strumenti di analisi o servizi di terze parti. Il nostro server conserva brevi log tecnici delle richieste (ora e pagina richiesta, senza indirizzi IP) per motivi di sicurezza e risoluzione dei problemi."
+        ]
+      },
+      {
+        "heading": "Minori",
+        "paragraphs": ["Poiché non raccogliamo dati personali, non ne raccogliamo nemmeno dai minori."]
+      },
+      {
+        "heading": "I tuoi diritti",
+        "paragraphs": [
+          "Non conserviamo dati personali che ti riguardano, quindi di norma non c’è nulla da consultare, correggere o cancellare. Se ci scrivi via email, usiamo il tuo messaggio solo per risponderti e lo cancelliamo quando non è più necessario. Puoi anche presentare un reclamo all’autorità per la protezione dei dati."
+        ]
+      },
+      {
+        "heading": "Modifiche",
+        "paragraphs": ["Se questa informativa cambia, aggiorneremo questa pagina e la data indicata sopra."]
+      }
+    ],
+    "contact": "Contatti"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "description": "TAF Games crée de petits jeux mobiles sans publicité.",
+  "privacyLink": "Politique de confidentialité",
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "updated": "Dernière mise à jour : {date}",
+    "intro": "Cette politique explique comment {company} (« TAF Games ») traite les données dans ses jeux et sur ce site. En bref : nous ne collectons aucune donnée personnelle.",
+    "sections": [
+      {
+        "heading": "Nos jeux",
+        "paragraphs": [
+          "Nos jeux ne collectent ni ne partagent aucune donnée personnelle. Ils ne contiennent ni publicité, ni outil d’analyse, ni suivi, ni compte, et fonctionnent entièrement hors ligne.",
+          "Vos réglages et votre progression sont enregistrés uniquement sur votre appareil. Nous ne pouvons pas y accéder, et ils sont supprimés lorsque vous désinstallez le jeu."
+        ]
+      },
+      {
+        "heading": "Achats",
+        "paragraphs": [
+          "Les jeux s’achètent sur l’App Store ou Google Play. Apple et Google traitent le paiement selon leurs propres politiques de confidentialité. Nous ne recevons jamais vos informations de paiement, seulement des rapports de ventes agrégés."
+        ]
+      },
+      {
+        "heading": "Ce site web",
+        "paragraphs": [
+          "Ce site n’utilise ni cookies, ni outil d’analyse, ni service tiers. Notre serveur conserve de brefs journaux techniques des requêtes (heure et page demandée, sans adresse IP) à des fins de sécurité et de dépannage."
+        ]
+      },
+      {
+        "heading": "Enfants",
+        "paragraphs": ["Comme nous ne collectons aucune donnée personnelle, nous n’en collectons pas non plus auprès des enfants."]
+      },
+      {
+        "heading": "Vos droits",
+        "paragraphs": [
+          "Nous ne détenons aucune donnée personnelle vous concernant ; il n’y a donc normalement rien à consulter, rectifier ou supprimer. Si vous nous écrivez par e-mail, nous utilisons votre message uniquement pour vous répondre et le supprimons lorsqu’il n’est plus nécessaire. Vous pouvez également introduire une réclamation auprès de votre autorité de protection des données."
+        ]
+      },
+      {
+        "heading": "Modifications",
+        "paragraphs": ["Si cette politique change, nous mettrons à jour cette page et la date ci-dessus."]
+      }
+    ],
+    "contact": "Contact"
+  }
+}

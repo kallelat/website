@@ -1,0 +1,8 @@
+services:
+  tafgames-website:
+    container_name: tafgames-website-dev
+    build:
+      context: .
+      target: dev
+    ports:
+      - "8080:80"

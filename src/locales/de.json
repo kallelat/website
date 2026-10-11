@@ -1,0 +1,45 @@
+{
+  "description": "TAF Games entwickelt kleine, werbefreie Spiele für Smartphones.",
+  "privacyLink": "Datenschutzerklärung",
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "updated": "Zuletzt aktualisiert: {date}",
+    "intro": "Diese Erklärung beschreibt, wie wir, {company} („TAF Games“), in unseren Spielen und auf dieser Website mit Daten umgehen. Kurz gesagt: Wir erheben keine personenbezogenen Daten.",
+    "sections": [
+      {
+        "heading": "Unsere Spiele",
+        "paragraphs": [
+          "Unsere Spiele erheben und teilen keine personenbezogenen Daten. Sie enthalten keine Werbung, keine Analyse- oder Tracking-Tools und keine Konten und funktionieren vollständig offline.",
+          "Ihre Einstellungen und Ihr Spielfortschritt werden nur auf Ihrem Gerät gespeichert. Wir haben keinen Zugriff darauf, und sie werden gelöscht, wenn Sie das Spiel deinstallieren."
+        ]
+      },
+      {
+        "heading": "Käufe",
+        "paragraphs": [
+          "Die Spiele werden über den App Store oder Google Play gekauft. Apple und Google wickeln die Zahlung nach ihren eigenen Datenschutzbestimmungen ab. Wir erhalten nie Ihre Zahlungsdaten, sondern nur zusammengefasste Verkaufsberichte."
+        ]
+      },
+      {
+        "heading": "Diese Website",
+        "paragraphs": [
+          "Diese Website verwendet keine Cookies, keine Analyse-Tools und keine Dienste Dritter. Unser Server speichert kurze technische Protokolle der Anfragen (Uhrzeit und aufgerufene Seite, ohne IP-Adressen) zur Sicherheit und Fehlerbehebung."
+        ]
+      },
+      {
+        "heading": "Kinder",
+        "paragraphs": ["Da wir keine personenbezogenen Daten erheben, erheben wir auch keine Daten von Kindern."]
+      },
+      {
+        "heading": "Ihre Rechte",
+        "paragraphs": [
+          "Wir speichern keine personenbezogenen Daten über Sie, daher gibt es in der Regel nichts einzusehen, zu berichtigen oder zu löschen. Wenn Sie uns eine E-Mail schreiben, verwenden wir Ihre Nachricht nur für die Antwort und löschen sie, sobald sie nicht mehr benötigt wird. Sie haben außerdem das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren."
+        ]
+      },
+      {
+        "heading": "Änderungen",
+        "paragraphs": ["Wenn sich diese Erklärung ändert, aktualisieren wir diese Seite und das obige Datum."]
+      }
+    ],
+    "contact": "Kontakt"
+  }
+}

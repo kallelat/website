@@ -1,0 +1,21 @@
+services:
+  tafgames-website:
+    container_name: tafgames-website
+    build:
+      context: .
+      target: prod
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      # Written by fetch-certs.sh; renewals reload nginx without a rebuild
+      - ./certs:/etc/nginx/certs:ro
+    restart: unless-stopped
+    environment:
+      - TZ=UTC
+    # Keep the access logs short, as the privacy policy says
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

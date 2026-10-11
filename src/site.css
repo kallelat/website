@@ -1,0 +1,106 @@
+:root {
+  color-scheme: light dark;
+  --bg: #ffffff;
+  --fg: #111111;
+  --muted: #6b6b6b;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #000000;
+    --fg: #ececec;
+    --muted: #9a9a9a;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  line-height: 1.6;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: inherit;
+}
+
+/* Home: the logo centered, privacy link at the bottom */
+.home {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-height: 100dvh;
+  padding: 24px 16px;
+}
+
+.home main {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home h1 {
+  margin: 0;
+}
+
+.home main img {
+  width: min(320px, 70vw);
+}
+
+.home footer {
+  text-align: center;
+  font-size: 14px;
+}
+
+.home footer a {
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.home footer a:hover {
+  text-decoration: underline;
+}
+
+/* Privacy policy */
+.policy {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 32px 16px 64px;
+}
+
+.policy header img {
+  width: 160px;
+}
+
+.policy h1 {
+  margin: 40px 0 4px;
+  font-size: 28px;
+  line-height: 1.25;
+}
+
+.policy h2 {
+  margin: 32px 0 8px;
+  font-size: 18px;
+}
+
+.policy .updated {
+  margin: 0 0 24px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.policy address {
+  font-style: normal;
+}

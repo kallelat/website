@@ -1,0 +1,45 @@
+{
+  "description": "TAF Games maakt kleine mobiele games zonder advertenties.",
+  "privacyLink": "Privacybeleid",
+  "privacy": {
+    "title": "Privacybeleid",
+    "updated": "Laatst bijgewerkt: {date}",
+    "intro": "Dit beleid legt uit hoe wij, {company} (‘TAF Games’), omgaan met gegevens in onze games en op deze website. Kort gezegd: we verzamelen geen persoonsgegevens.",
+    "sections": [
+      {
+        "heading": "Onze games",
+        "paragraphs": [
+          "Onze games verzamelen en delen geen persoonsgegevens. Ze bevatten geen advertenties, analysetools, tracking of accounts en werken volledig offline.",
+          "Je instellingen en voortgang worden alleen op je apparaat opgeslagen. Wij kunnen ze niet inzien en ze worden verwijderd wanneer je de game verwijdert."
+        ]
+      },
+      {
+        "heading": "Aankopen",
+        "paragraphs": [
+          "Games worden gekocht via de App Store of Google Play. Apple en Google verwerken de betaling volgens hun eigen privacybeleid. Wij ontvangen nooit je betaalgegevens, alleen geaggregeerde verkooprapporten."
+        ]
+      },
+      {
+        "heading": "Deze website",
+        "paragraphs": [
+          "Deze website gebruikt geen cookies, analysetools of diensten van derden. Onze server bewaart korte technische logs van verzoeken (tijdstip en opgevraagde pagina, zonder IP-adressen) voor beveiliging en het oplossen van problemen."
+        ]
+      },
+      {
+        "heading": "Kinderen",
+        "paragraphs": ["Omdat we geen persoonsgegevens verzamelen, verzamelen we ook geen gegevens van kinderen."]
+      },
+      {
+        "heading": "Je rechten",
+        "paragraphs": [
+          "We bewaren geen persoonsgegevens over je, dus er is normaal gesproken niets in te zien, te corrigeren of te verwijderen. Als je ons e-mailt, gebruiken we je bericht alleen om te antwoorden en verwijderen we het zodra het niet meer nodig is. Je kunt ook een klacht indienen bij de gegevensbeschermingsautoriteit."
+        ]
+      },
+      {
+        "heading": "Wijzigingen",
+        "paragraphs": ["Als dit beleid verandert, werken we deze pagina en de datum hierboven bij."]
+      }
+    ],
+    "contact": "Contact"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "description": "TAF Games makes small, ad-free mobile games.",
+  "privacyLink": "Privacy policy",
+  "privacy": {
+    "title": "Privacy Policy",
+    "updated": "Last updated: {date}",
+    "intro": "This policy explains how {company} (“TAF Games”) handles data in its games and on this website. In short: we do not collect personal data.",
+    "sections": [
+      {
+        "heading": "Our games",
+        "paragraphs": [
+          "Our games do not collect or share any personal data. They have no ads, analytics, tracking or accounts, and they work fully offline.",
+          "Your settings and game progress are stored only on your device. We cannot see them, and they are removed when you uninstall the game."
+        ]
+      },
+      {
+        "heading": "Purchases",
+        "paragraphs": [
+          "Games are bought through the App Store or Google Play. Apple and Google process the payment under their own privacy policies. We never receive your payment details, only aggregated sales reports."
+        ]
+      },
+      {
+        "heading": "This website",
+        "paragraphs": [
+          "This website uses no cookies, analytics or third-party services. Our server keeps short technical logs of requests (time and page requested, without IP addresses) for security and troubleshooting."
+        ]
+      },
+      {
+        "heading": "Children",
+        "paragraphs": ["Because we collect no personal data, we collect none from children either."]
+      },
+      {
+        "heading": "Your rights",
+        "paragraphs": [
+          "We hold no personal data about you, so there is normally nothing to access, correct or delete. If you email us, we use your message only to reply and delete it when it is no longer needed. You can also lodge a complaint with your data protection authority."
+        ]
+      },
+      {
+        "heading": "Changes",
+        "paragraphs": ["If this policy changes, we will update this page and the date above."]
+      }
+    ],
+    "contact": "Contact"
+  }
+}

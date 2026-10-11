@@ -1,0 +1,45 @@
+{
+  "description": "TAF Games crea pequeños juegos para móviles, sin anuncios.",
+  "privacyLink": "Política de privacidad",
+  "privacy": {
+    "title": "Política de privacidad",
+    "updated": "Última actualización: {date}",
+    "intro": "Esta política explica cómo {company} («TAF Games») trata los datos en sus juegos y en este sitio web. En resumen: no recopilamos datos personales.",
+    "sections": [
+      {
+        "heading": "Nuestros juegos",
+        "paragraphs": [
+          "Nuestros juegos no recopilan ni comparten datos personales. No tienen anuncios, analíticas, seguimiento ni cuentas, y funcionan totalmente sin conexión.",
+          "Tus ajustes y tu progreso se guardan solo en tu dispositivo. No podemos verlos y se eliminan al desinstalar el juego."
+        ]
+      },
+      {
+        "heading": "Compras",
+        "paragraphs": [
+          "Los juegos se compran a través de App Store o Google Play. Apple y Google procesan el pago según sus propias políticas de privacidad. Nunca recibimos tus datos de pago, solo informes de ventas agregados."
+        ]
+      },
+      {
+        "heading": "Este sitio web",
+        "paragraphs": [
+          "Este sitio web no usa cookies, analíticas ni servicios de terceros. Nuestro servidor guarda registros técnicos breves de las solicitudes (hora y página solicitada, sin direcciones IP) por motivos de seguridad y para resolver problemas."
+        ]
+      },
+      {
+        "heading": "Menores",
+        "paragraphs": ["Como no recopilamos datos personales, tampoco recopilamos datos de menores."]
+      },
+      {
+        "heading": "Tus derechos",
+        "paragraphs": [
+          "No tenemos datos personales sobre ti, así que normalmente no hay nada que consultar, corregir o eliminar. Si nos escribes por correo electrónico, usamos tu mensaje solo para responderte y lo eliminamos cuando ya no es necesario. También puedes presentar una reclamación ante tu autoridad de protección de datos."
+        ]
+      },
+      {
+        "heading": "Cambios",
+        "paragraphs": ["Si esta política cambia, actualizaremos esta página y la fecha indicada arriba."]
+      }
+    ],
+    "contact": "Contacto"
+  }
+}
